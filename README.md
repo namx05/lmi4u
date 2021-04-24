@@ -10,15 +10,19 @@ If you are getting a new system (linux) or a VPS, than it's for you. It will ins
 
 
 <h1><u><b>Installation:- </b></u></h1>
+
 <pre>cd lmi4u
 chmod +x install.sh
 sudo bash install.sh
 </pre>
 <br>
-If you found my tool helpfull, than consider buy me a coffee :-
 
+
+If you found my tool helpfull, than consider buy me a coffee :-
 https://www.buymeacoffee.com/cryptopekkaa 
 
+<h3>Contact Me :- </h3>
+If you need help or want to contribute or have Better ideas regarding this tools, than you can contact me via :
 twitter   - https://twitter.com/cryptopekkaa 
 <br>
 instagram - https://www.instagram.com/naman5.6/
