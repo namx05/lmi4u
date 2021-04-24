@@ -331,9 +331,17 @@ sudo mv qsreplace /usr/local/bin
 cd ~/tools/
 echo "---------- Done ----------"
 
+#Installing SecScraper
+echo "---------- Installing SecScraper ----------"
+git clone https://github.com/bittentech/SecScraper.git
+cd SecScraper
+pip3 install -r requirements.txt
+cd ~/tools/
+echo "---------- Done ----------"
 
 
 
+echo "Don't forget to configure AWS cli"
 echo "Don't forget to configure gitGraber"
 echo "Don't forget to configure slackcat"
 echo -e "\n\n\n\n\n\n\n\n\n\n\nDone! All Tools are set up in ~/tools"
