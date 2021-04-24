@@ -11,7 +11,9 @@ If you are getting a new system (linux) or a VPS, than it's for you. It will ins
 
 <h1><u><b>Installation:- </b></u></h1>
 
-<pre>cd lmi4u
+<pre>
+git clone https://github.com/cryptopekkaa/lmi4u
+cd lmi4u
 chmod +x install.sh
 sudo bash install.sh
 </pre>
