@@ -20,11 +20,16 @@ sudo bash install.sh
 <br>
 
 
-If you found my tool helpfull, than consider buy me a coffee :-
-https://www.buymeacoffee.com/cryptopekkaa 
 
-<h3>Contact Me :- </h3>
-If you need help or want to contribute or have Better ideas regarding this tools, than you can contact me via : <br>
+<h3>Thank You For Trying! </h3> <br>
+
+Your Contribution and Suggestions are welcomed.
+
+If the project helped you if any case you can buy a coffee for me ;): <br>
 twitter   - https://twitter.com/cryptopekkaa 
 <br>
 instagram - https://www.instagram.com/naman5.6/
+
+
+If you found my tool helpfull, than consider buy me a coffee :-
+https://www.buymeacoffee.com/cryptopekkaa 
