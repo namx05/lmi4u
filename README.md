@@ -22,7 +22,7 @@ If you found my tool helpfull, than consider buy me a coffee :-
 https://www.buymeacoffee.com/cryptopekkaa 
 
 <h3>Contact Me :- </h3>
-If you need help or want to contribute or have Better ideas regarding this tools, than you can contact me via :
+If you need help or want to contribute or have Better ideas regarding this tools, than you can contact me via : <br>
 twitter   - https://twitter.com/cryptopekkaa 
 <br>
 instagram - https://www.instagram.com/naman5.6/
