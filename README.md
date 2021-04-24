@@ -23,9 +23,8 @@ sudo bash install.sh
 
 <h3>Thank You For Trying! </h3> <br>
 
-Your Contribution and Suggestions are welcomed.
+<h3>Your Contribution and Suggestions are welcomed.</h3>
 
-If the project helped you if any case you can buy a coffee for me ;): <br>
 twitter   - https://twitter.com/cryptopekkaa 
 <br>
 instagram - https://www.instagram.com/naman5.6/
