@@ -5,8 +5,7 @@ If you are getting a new system (linux) or a VPS, than it's for you. It will ins
 
 <h1>Note:- </h1>
 
-1.The bash_profile will work for some specific tools (tools which i added in my script), not for all tools. <br>
-2.Please change the username in line 68 form "naman" to your username, if you want the dynamic wallpaper to work :)
+-> The bash_profile will work for some specific tools (tools which i added in my script), not for all tools. <br>
 
 
 <h1><u><b>Installation:- </b></u></h1>
