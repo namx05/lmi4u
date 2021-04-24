@@ -22,7 +22,7 @@ sudo bash install.sh
 
 <h3>Thank You For Trying! </h3> <br>
 
-<h3>Your Contribution and Suggestions are welcomed.</h3>
+<h3>Your Contribution and Suggestions are Appriciated :)</h3>
 
 twitter   - https://twitter.com/cryptopekkaa 
 <br>
