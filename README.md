@@ -14,7 +14,7 @@ If you are getting a new system (linux) or a VPS, than it's for you. It will ins
 git clone https://github.com/cryptopekkaa/lmi4u
 cd lmi4u
 chmod +x install.sh
-sudo bash install.sh
+./install.sh
 </pre>
 <br>
 
