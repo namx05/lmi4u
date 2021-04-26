@@ -1,30 +1,30 @@
 #Dirsearch
 dirsearch(){
-	python3 ~/tools/dirsearch/dirsearch.py -d $1 
+	sudo python3 ~/tools/dirsearch/dirsearch.py -d $1 
 }
 
 
 #SecretFinder - just add file name
 secretfinder(){
-	python3 ~/tools/SecretFinder.py -i $1 -e
+	sudo python3 ~/tools/SecretFinder.py -i $1 -e
 }
 
 
 #SecScraper - just add type (hackerone or medium) and topic 
 secscraper(){
-	python3 ~/tools/SecScraper/scraper.pr -t $1 -q "$2" -t 20 -o ~/Desktop/$2.txt
+	sudo python3 ~/tools/SecScraper/scraper.pr -t $1 -q "$2" -t 20 -o ~/Desktop/$2.txt
 } 
 
 
 #gitGaber - just add keywords and url 
 gitGaber(){
-	python3 ~/toosls/gitGraber/gitGraber.py -k $2 -q $1 -s 
+	sudo python3 ~/toosls/gitGraber/gitGraber.py -k $2 -q $1 -s 
 }
 
 
 #nucleiCVE - add url.txt 
 nucleicve(){
-	nuclei -l $1 -t cves/
+	sudo nuclei -l $1 -t cves/
 }
 
 awsls(){
@@ -47,7 +47,7 @@ byp4xx(){
 
 #webdork - just add company name annd output file 
 gdork(){
-	webdork -cn $1 -bw --show -v -o ~/$2
+	sudo webdork -cn $1 -bw --show -v -o ~/$2
 }
 
 #QuickXSS - just add target.com and output filename
@@ -57,6 +57,6 @@ quickxss(){
 
 #sqlmap - add every thing 
 sqlmap(){
-	python ~/tools/sqlmap/sqlmap.py
+	sudo python ~/tools/sqlmap/sqlmap.py
 }
 
