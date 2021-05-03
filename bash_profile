@@ -12,7 +12,7 @@ secretfinder(){
 
 #SecScraper - just add type (hackerone or medium) and topic 
 secscraper(){
-	sudo python3 ~/tools/SecScraper/scraper.pr -t $1 -q "$2" -t 20 -o ~/Desktop/$2.txt
+	sudo python3 ~/tools/SecScraper/scraper.py -t $1 -q "$2" -c 20 -o ~/Desktop/$2.txt
 } 
 
 
