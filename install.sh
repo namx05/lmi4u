@@ -97,11 +97,7 @@ echo "done"
 #Instaloing Aquatone
 #For screenshot
 echo "---------- Installing Aquatone ----------"
-mkdir aquatone ; cd aquatone
-wget https://github.com/michenriksen/aquatone/releases/download/v1.7.0/aquatone_linux_amd64_1.7.0.zip
-unzip aquatone*
-sudo mv aquatone /usr/local/bin
-rm -rfv aquatone_linux_amd64_1*
+go get -u github.com/shelld3v/aquatone
 cd ~/tools/
 echo "---------- done ----------"
 
