@@ -24,10 +24,10 @@ chmod +x install.sh
 
 <h3>Your Contribution and Suggestions are Appriciated :)</h3>
 
-twitter   - https://twitter.com/cryptopekkaa 
+twitter   - https://twitter.com/namx05
 <br>
-instagram - https://www.instagram.com/naman5.6/
+instagram - https://www.instagram.com/namx05/
 
 
 If you found my tool helpfull, than consider buy me a coffee :-
-https://www.buymeacoffee.com/cryptopekkaa 
+https://www.buymeacoffee.com/namx05
