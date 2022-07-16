@@ -11,7 +11,7 @@ If you are getting a new system (linux) or a VPS, than it's for you. It will ins
 <h1><u><b>Installation:- </b></u></h1>
 
 <pre>
-git clone https://github.com/cryptopekkaa/lmi4u
+git clone https://github.com/namx05/lmi4u
 cd lmi4u
 chmod +x install.sh
 ./install.sh
@@ -26,7 +26,6 @@ chmod +x install.sh
 
 twitter   - https://twitter.com/namx05
 <br>
-instagram - https://www.instagram.com/namx05/
 
 
 If you found my tool helpfull, than consider buy me a coffee :-
