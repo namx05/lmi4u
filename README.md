@@ -1,3 +1,5 @@
+> Note: This tool is no longer managed or updated
+
 <h1> lmi4u - let me install for you </h1>
 
 lmi4u is designed to Install basic kind of tools (my personal preffered) required in Bug Bounty. 
